@@ -1,0 +1,14 @@
+../Core/Src/main.c:83:5:main	3
+../Core/Src/main.c:143:6:SystemClock_Config	3
+../Core/Src/main.c:190:13:MX_I2C1_Init	2
+../Core/Src/main.c:224:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:257:13:MX_GPIO_Init	1
+../Core/Src/main.c:296:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:312:6:writeSSD1306Commands	2
+../Core/Src/main.c:323:6:writeSSD1306Data	2
+../Core/Src/main.c:334:6:initializeSSD1306	1
+../Core/Src/main.c:355:6:eraseSSD1306Data	3
+../Core/Src/main.c:372:6:fillSSD1306Data	3
+../Core/Src/main.c:389:6:testSSD1306	1
+../Core/Src/main.c:398:6:drawMessage	6
+../Core/Src/main.c:702:6:Error_Handler	1
